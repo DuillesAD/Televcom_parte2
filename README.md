@@ -1,4 +1,4 @@
-# 📘 Projeto: Análise de Evasão de Clientes (TelecomX)
+# 📘 Projeto: Análise de Evasão de Clientes (TelecomX) Parte 2
 
 ## 📌 Descrição
 Este projeto tem como objetivo analisar os fatores que influenciam a **evasão de clientes (churn)** em uma empresa de telecomunicações e avaliar diferentes modelos de Machine Learning para prever o risco de cancelamento.
